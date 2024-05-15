@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=03fcd3&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+o+André+Santiago;Tenho+17+anos;Sou+brasileiro;Curso+desenvolvimento+de+sistemas+no+Sesi;Seja+bem-vindo!+:D)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LuanSchneider&bg_color=01705e&color=03fcd3&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LuanSchneider&bg_color=black&color=03fcd3&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LuanSchneider&show_icons=true&count_private=true&hide_border=true&title_color=01705&icon_color=03fcd3&text_color=03fcd3&bg_color=03fcd3" alt="Luan Schneider github stats" /> 
