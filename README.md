@@ -5,7 +5,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Um-ser-humano-qualquer&bg_color=black&color=03fcd3&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Um-ser-humano-qualquer&show_icons=true&count_private=true&hide_border=true&title_color=000000&icon_color=03fcd3&text_color=03fcd3&bg_color=black" alt="André Santiago github Status" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Um-ser-humano-qualquer&show_icons=true&count_private=true&hide_border=true&title_color=000000&icon_color=000000&text_color=03fcd3&bg_color=black" alt="André Santiago github Status" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Um-ser-humano-qualquer&layout=compact&hide_border=true&title_color=03fcd3&text_color=03fcd3&bg_color=03fcd3" />
 <img src="https://camo.githubusercontent.com/a12d992eb3340637ce420267fa4db277f89ffb7d3be28496e8c8592dff73ae29/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d467573636174757262696e61646f267468656d653d6e656f6e26726f773d32266e6f2d62673d7472756526636f6c756d6e3d33266d617267696e2d773d3135266d617267696e2d683d3135" data-canonical-src="https://github-profile-trophy.vercel.app/?username=Um-ser-humano-qualquer;theme=neon&amp;row=2&amp;no-bg=true&amp;column=3&amp;margin-w=15&amp;margin-h=15" style="max-width: 100%;">
 
